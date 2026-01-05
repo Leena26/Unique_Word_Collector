@@ -18,8 +18,8 @@ This project demonstrates **Object-Oriented Programming (OOP)**, **Unit Testing*
 ## 📦 Installation & Setup
 1. Clone the repository:
 2. Install dependencies
-
 bash```pip install -r requirements.txt```
-4. Run tests (Optional)
-
+3. Run tests (Optional)
 bash```python -m pytest```
+
+
