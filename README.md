@@ -1,4 +1,4 @@
-# Unique Word Collector Pro
+# Unique Word Collector
 
 A desktop application built with Python and Tkinter that extracts and counts unique words from text input or uploaded files. 
 This project demonstrates **Object-Oriented Programming (OOP)**, **Unit Testing**, and **Regex-based text processing**.
